@@ -1,1 +1,1 @@
-# ClassManagermentPHP
+# ClassManagementPHP
